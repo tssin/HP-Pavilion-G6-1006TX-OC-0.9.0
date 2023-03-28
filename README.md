@@ -1,3 +1,5 @@
+![image](https://github.com/tssin/HP-Pavilion-G6-1006TX-OC-0.9.0/commit/5fc03e7e8de98b4cec4619cecaa801fd614fda5c)
+
 ●DISCLAIMER：
 
 You can use my config.plist if you have the same laptop, but you should update SMBIOS. 
