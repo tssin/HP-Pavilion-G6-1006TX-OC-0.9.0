@@ -1,4 +1,4 @@
-![image](https://github.com/tssin/HP-Pavilion-G6-1006TX-OC-0.9.0/commit/5fc03e7e8de98b4cec4619cecaa801fd614fda5c)
+![image](https://github.com/tssin/HP-Pavilion-G6-1006TX-OC-0.9.0/blob/main/HPG6.gif)
 
 ●DISCLAIMER：
 
